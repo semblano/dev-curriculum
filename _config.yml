@@ -35,55 +35,22 @@ bio: "System Analyst with over 7 years of experience on software development, Li
 # 5 - Jedi: You master the skill, know how and when to use and when not use it
 #
 # You can change these names in _includes/_skill-level-name.html if you wish
-#
+# 1 - Studying
+# 2 - Personal lab
+# 3 - Some professional experience
+# 4 - Currently working with
+# 5 - Major experience with
 # If you don't want one of the sections below, leave the variable without any values
-Dev-ops:
-  - name: HTML 5
-    level: 4
-  - name: CSS 3
-    level: 4
-  - name: JavaScript
-    level: 4
-  - name: jQuery
-    level: 4
-  - name: Angular
-    level: 4
-  - name: Vue.js
-    level: 2
-  - name: Bootstrap
-    level: 4
-  - name: Materialize CSS
-    level: 5
-  - name: LESS
-    level: 3
-  - name: SASS
-    level: 3
-  - name: Stylus
-    level: 4
-  - name: Gulp
-    level: 4
-  - name: Grunt
-    level: 3
-  - name: Bower
-    level: 3
 
 back-end:
-  - name: PHP
-    level: 5
-  - name: Node.js
-    level: 3
   - name: Ruby
-    level: 2
+    level: 4
   - name: Python
-    level: 2
-  - name: Java
     level: 4
-  - name: COBOL
+  - name: GoLang
     level: 2
-  - name: SQL
-    level: 4
-  - name: Lua
-    level: 2
+  - name: C
+    level: 1
 
 db:
   - name: MySQL
