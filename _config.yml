@@ -85,43 +85,29 @@ back-end:
   - name: Lua
     level: 2
 
-mobile:
-  - name: Android
-    level: 2
-  - name: Apache Cordova
-    level: 4
-  - name: Ionic
-    level: 4
-  - name: NativeScript
-    level: 3
-
 db:
   - name: MySQL
     level: 4
   - name: PostgreSQL
     level: 3
-  - name: MongoDB
-    level: 4
-  - name: SQL Server
+  - name: InfluxDB
+    level: 3
+  - name: CayleyDB
     level: 2
   - name: Oracle
-    level: 3
-  - name: Firebase
-    level: 3
-  - name: NoSQL
-    level: 4
+    level: 1
 
 devops:
+  - name: Chef.io
+    level: 5
   - name: Docker
     level: 3
   - name: Vagrant
     level: 3
   - name: Jenkins
-    level: 1
+    level: 3
   - name: Git
     level: 5
-  - name: Apache Maven
-    level: 3
   - name: Continuous Integration
     level: 3
   - name: Continuous Delivery
