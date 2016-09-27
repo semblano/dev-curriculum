@@ -15,14 +15,15 @@ github: semblano
 googleplus: 
 facebook: 
 linkedin: marcussemblano
-bio: "Brazilian developer. Game, music and technology lover.
-      I graduated in Systems Analysis and Development. I'm a Zend Certified PHP Engineer and Scrum Fundamentals Certified. I love to study and learn new skills,
-      exchange work and study experience with people around me and share my knowledge with the ones that want it. I work with Web Development since 2009 and with
-      Mobile Development since 2015 as Freelancer and in some Brazilian companies too.
-      I'm the creator of CodeShare, a free portal with articles, videos, etc, about Software Development. The purpose of this project is to help people who want
-      to learn about Software Development and start their careers in IT area and to help people that already work with Software Development to improve their
-      technical knowledge to get better job opportunities.
-      I like to work with both: Front-End and Back-End development. I work with many languages, frameworks and technologies."
+bio: "System Analyst with over 7 years of experience on software development, Linux Distro customization, team leadership and infrastructure automation.
+
+  I've been working with open source technologies, coding shell script, python and ruby.
+  Recently, I've been working with new technologies like Vagrant, Docker, RabbitMQ, and learning new languages, like ruby and Go. Improving infrastructure automation with CHEF, to deploy/maintain a large number of machines on Amazon Web Service (AWS). Building CI/CD with Jenkins and monitoring with Sensu.
+
+  Experience with RedHat Enterprise Linux, CentOS, OpenSuse, Debian, Ubuntu, OpenClient (IBM internal Linux distribution) and Metasys (custom educational Linux distribution).
+  Academic experience with Data Warehouse and Data modeling.
+
+  Additional experience with computer hardware design in Verilog and VHDL, based on my Electrical Engineering academic background."
 
 # Skills
 #
@@ -36,7 +37,7 @@ bio: "Brazilian developer. Game, music and technology lover.
 # You can change these names in _includes/_skill-level-name.html if you wish
 #
 # If you don't want one of the sections below, leave the variable without any values
-front-end:
+Dev-ops:
   - name: HTML 5
     level: 4
   - name: CSS 3
